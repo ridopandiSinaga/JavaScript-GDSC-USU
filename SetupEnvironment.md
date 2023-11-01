@@ -1,0 +1,1 @@
+https://ridopandisinaga.github.io/posts/set_up_environment/

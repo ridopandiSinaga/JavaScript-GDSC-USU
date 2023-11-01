@@ -151,13 +151,15 @@
 // contoh 5
 // console.log("Windows path: C:\\Program Files\\MyProject");
 
-// Pada String, kita juga dapat menggunakan operator plus (+). Operator tersebut berfungsi untuk menggabungkan dua teks yang terpisah menjadi satu buah teks.
+// Pada String, kita juga dapat menggunakan operator plus (+).
+//  Operator tersebut berfungsi untuk menggabungkan dua teks yang terpisah menjadi satu buah teks.
 // contoh 6
 // let greet = "Halo";
 // let moreGreet = greet + greet;
 // console.log(moreGreet);
 
-// Selain concatenation, string pada JavaScript juga mendukung string interpolation. Sederhananya, kita bisa memasukkan variabel ke dalam sebuah string template menggunakan backticks (`).
+// Selain concatenation, string pada JavaScript juga mendukung string interpolation. 
+// Sederhananya, kita bisa memasukkan variabel ke dalam sebuah string template menggunakan backticks (`).
 // contoh 7
 // const myName = "Asep";
 // console.log(`Hello, my name is ${myName}.`);

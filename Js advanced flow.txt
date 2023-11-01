@@ -1,0 +1,35 @@
+
+ADVANCE
+
+
+1. Setup Environment
+Pengenalan Setup Environment
+Text Editor & Terminal
+JavaScript Runtime
+Node.js
+Instalasi Node.js dengan NVM
+Membuat Project JavaScript
+Menjalankan Project Node
+
+2.  Module
+Pengenalan Module
+Export & Import
+Export Beberapa Nilai pada Node.js
+ES6 Module
+
+3  Penanganan Eror
+Pengenalan Penanganan Eror
+Try and Catch
+Throwing Errors
+Custom Error
+
+4 .Asynchronous Process
+Pengantar Asynchronous Process
+Pengenalan Asynchronous
+setTimeout Function
+Asynchronous Handling dengan Callback
+Asynchronous Handling dengan Promise
+Mengubah Callback Menjadi Promise dengan Promisify
+Promise Berantai
+Promise Static Method
+Asynchronous Handling dengan Sintaks Async dan Await
