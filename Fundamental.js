@@ -1,4 +1,4 @@
-/* FUNDEMENTAL JAVASCRIPT */
+/*1.  FUNDEMENTAL JAVASCRIPT */
 
 /*COMMENT 
   Sebuah komentar akan dilewatkan oleh interpreter atau compiler, 

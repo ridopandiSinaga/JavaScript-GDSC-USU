@@ -1,4 +1,4 @@
-/* STRUKTUR DATA
+/* 2. STRUKTUR DATA
     Sebelumnya kita sempat mempelajari tentang variabel dan tipe data yang ada di JavaScript. 
     Tipe data yang kita bahas sebelumnya termasuk dalam kategori tipe data primitif yang hanya bisa menyimpan satu nilai.
 

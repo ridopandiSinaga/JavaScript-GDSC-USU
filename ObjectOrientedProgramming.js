@@ -1,4 +1,4 @@
-/*OBJECT ORIENTED PROGRAMMING*/
+/*4. OBJECT ORIENTED PROGRAMMING*/
 
 // contoh 1
 // const car = {
